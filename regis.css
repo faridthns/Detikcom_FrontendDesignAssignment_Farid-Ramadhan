@@ -1,0 +1,550 @@
+body {
+    background-color: #F4FBFF;
+}
+
+.form-container {
+    width: 640px;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;  
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    position: absolute;
+    top: 150px;
+    left: 25%;
+  }
+
+  .card {
+    border-radius: 16px;
+    
+  }
+
+  .form-form {
+    margin-top: 53px;
+    gap: 20px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 30px 20px;
+    z-index: 1;
+    align-items: center;
+    border-radius: 16px;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 1);
+    
+  }
+  .form-frame12328 {
+    gap: 8px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .form-group8812 {
+    width: 600px;
+    height: 44px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(247, 247, 247, 1);
+    border-radius: 16px;
+  }
+  .form-text {
+    top: 17.1875px;
+    left: 15px;
+    color: rgba(7, 20, 36, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-text01 {
+    color: rgba(7, 20, 36, 1);
+  }
+
+  .form-text01::after {
+    content:"*";color:red;
+  }
+
+  .form-imel {
+    width: 600px;
+    height: 44px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .form-frame123281 {
+    gap: 8px;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .form-group88121 {
+    width: 600px;
+    height: 44px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(247, 247, 247, 1);
+    border-radius: 16px;
+  }
+  .form-text02 {
+    top: 17.1875px;
+    left: 15px;
+    color: rgba(7, 20, 36, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-text03 {
+    color: rgba(7, 20, 36, 1);
+  }
+
+  .form-text03::after {
+    content:"*";color:red;
+  }
+
+  .form-file {
+    width: 600px;
+    height: 67px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .form-frame12323 {
+    gap: 8px;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .form-group8806 {
+    width: 600px;
+    height: 44px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(247, 247, 247, 1);
+    border-radius: 16px;
+  }
+  .form-text04 {
+    top: 17.1875px;
+    left: 15px;
+    color: rgba(7, 20, 36, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-text05 {
+    color: rgba(7, 20, 36, 1);
+  }
+
+  .form-text05::after {
+    content:"*";color:red;
+  }
+
+  .form-text06 {
+    color: var(--dl-color-default-gray3);
+    height: auto;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-tentang {
+    width: 600px;
+    height: 120px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .form-frame12327 {
+    gap: 8px;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .form-group8811 {
+    width: 600px;
+    height: 120px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(247, 247, 247, 1);
+    border-radius: 16px;
+  }
+  .form-text08 {
+    top: 14.1875px;
+    left: 15px;
+    color: rgba(7, 20, 36, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-text09 {
+    color: rgba(7, 20, 36, 1);
+  }
+
+  .form-text09::after {
+    content:"*";color:red;
+  }
+
+  .form-image {
+    width: 600px;
+    height: 200px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .form-rectangle133 {
+    top: -4.547473508864641e-13px;
+    left: 219.63394165039062px;
+    width: 380px;
+    height: 200px;
+    position: absolute;
+  }
+  .form-frame12326 {
+    gap: 8px;
+    top: 62px;
+    left: 219.63394165039062px;
+    width: 318.4692077636719px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  .form-text10 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 119.99999284744263%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-group8798 {
+    top: 0px;
+    left: 0px;
+    width: 199.66722106933594px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-radius: 16px;
+  }
+  .form-group570 {
+    top: 0px;
+    left: 0px;
+    width: 199.66722106933594px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-radius: 16px;
+  }
+  .form-group568 {
+    top: 0px;
+    left: 0px;
+    width: 199.66722106933594px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(247, 247, 247, 1);
+  }
+  .form-vector {
+    top: 81px;
+    left: 80.86522674560547px;
+    width: 38px;
+    height: 38px;
+    position: absolute;
+  }
+  .form-text19 {
+    top: 171px;
+    left: 52.91181182861328px;
+    color: rgba(0, 0, 0, 1);
+    width: 88px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-text20 {
+    color: rgba(0, 0, 0, 1);
+  }
+
+  .form-text20::after {
+    content:"*";color:red;
+  }
+
+  .form-file1 {
+    width: 600px;
+    height: 66px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .form-frame12324 {
+    gap: 10px;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .form-group8809 {
+    width: 600px;
+    height: 44px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .form-group8807 {
+    top: 0px;
+    left: 0px;
+    width: 600px;
+    height: 44px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(247, 247, 247, 1);
+    border-radius: 16px;
+  }
+  .form-text21 {
+    top: 14.1875px;
+    left: 15px;
+    color: rgba(7, 20, 36, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-group8808 {
+    top: 0px;
+    left: 440px;
+    width: 160px;
+    height: 44px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(0, 124, 189, 1);
+  }
+  .form-text23 {
+    top: 14.1875px;
+    left: 51px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-text25 {
+    color: var(--dl-color-default-gray3);
+    height: auto;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-file2 {
+    width: 600px;
+    height: 64px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .form-frame12325 {
+    gap: 8px;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .form-group8810 {
+    width: 600px;
+    height: 44px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(247, 247, 247, 1);
+    border-radius: 16px;
+  }
+  .form-text27 {
+    top: 17.1875px;
+    left: 15px;
+    color: rgba(7, 20, 36, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-text28 {
+    color: rgba(7, 20, 36, 1);
+  }
+
+  .form-text28::after {
+    content:"*";color:red;
+  }
+
+  .form-text29 {
+    color: var(--dl-color-default-gray3);
+    height: auto;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-group8799 {
+    width: 600px;
+    height: 15px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .form-text31 {
+    
+    color: rgba(7, 20, 36, 1);
+    width: 579px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form-rectangle57 {
+    top: 0.25px;
+    left: 0px;
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    border-radius: 2px;
+  }
+  .form-button-new {
+    gap: 10px;
+    width: 250px;
+    display: flex;
+    padding: 16px 20px;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 5px;
+    justify-content: center;
+    background-color: rgba(0, 124, 189, 1);
+  }
+  .form-text33 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 14px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  

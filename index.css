@@ -1,0 +1,117 @@
+@media (min-width: 480px) {
+    .tombol {
+        display: block;
+    }
+}
+
+body {
+    font-family: Montserrat ;
+}
+
+.nav{
+    width: 100%;
+    float: left;
+    background-color: #007CBD;
+  }
+
+.navbar {
+    padding: 5px 100px;
+}
+
+.logo {
+    float: left;
+    padding: 15px 0 15px;
+}
+
+.navbar ul {
+    float: right;
+    padding: 15px 0 15px;
+    
+}
+
+.navbar ul>li{
+    float: left;
+    list-style: none;
+    padding-left: 50px;
+    font-size: 15px;
+}
+   
+.navbar ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn {
+    color: #007CBD;
+    font-size: 15px;
+    background-color: white;
+    border: white 3px solid;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.jumbotron {
+    width: auto;
+    height: 1024px;
+    background-image: url("images/orang.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  
+  /* Place text in the middle of the image */
+  .hero-text {
+    padding: 20%;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-style: Bold;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 700;
+  }
+
+  .btn-hero {
+    color: white;
+    padding: 16px 20px;
+    font-size: 15px;
+    background-color: #3EB7DD;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#about {
+    padding: 80px;
+    background-color: #F4FBFF;
+}
+
+.poto {
+    display: inline;
+    float: left;
+    padding-right: 20px;
+}
+
+#mekanisme {
+    height: 1000px;
+    background-image: url("images/mekanisme.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.konten {
+    padding-top: 120px;
+    
+}
+
+.isi {
+    width: 751px;
+    margin: auto;
+}
+
+#latestupdate {
+    padding-top: 30px;
+    background-color: #F4FBFF;
+  }
+  

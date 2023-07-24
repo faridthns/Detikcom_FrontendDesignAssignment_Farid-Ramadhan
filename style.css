@@ -1,0 +1,379 @@
+.running-logo-section-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.running-logo-section-running-logo-section {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(244, 251, 255, 1);
+}
+.running-logo-section-running-logo {
+  gap: 50px;
+  top: 82px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  flex-direction: column;
+}
+.running-logo-section-text {
+  color: rgba(0, 124, 189, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.running-logo-section-frame12336 {
+  width: 2000px;
+  height: 144px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.running-logo-section-group8825 {
+  top: 0px;
+  left: 0px;
+  width: 4956px;
+  height: 144px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  
+}
+.running-logo-section-frame12321 {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.running-logo-section-rectangle10 {
+  width: 291px;
+  height: 144px;
+  border-radius: 10px;
+}
+.running-logo-section-frame12320 {
+  gap: 10px;
+  height: 94px;
+  display: flex;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.running-logo-section-alphajwc1 {
+  width: 216px;
+  height: 48px;
+}
+.running-logo-section-frame12328 {
+  gap: 10px;
+  top: 0px;
+  left: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.running-logo-section-rectangle1001 {
+  width: 291px;
+  height: 144px;
+  border-radius: 10px;
+}
+.running-logo-section-frame1232001 {
+  gap: 10px;
+  height: 94px;
+  display: flex;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.running-logo-section-alphajwc101 {
+  width: 216px;
+  height: 48px;
+}
+.running-logo-section-frame1232002 {
+  gap: 10px;
+  top: 0px;
+  left: 311px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.running-logo-section-rectangle1002 {
+  width: 291px;
+  height: 144px;
+  border-radius: 10px;
+}
+.running-logo-section-frame1232003 {
+  gap: 10px;
+  height: 94px;
+  display: flex;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.running-logo-section-alphajwc102 {
+  width: 216px;
+  height: auto;
+  flex-grow: 1;
+}
+.running-logo-section-frame12329 {
+  gap: 10px;
+  top: 0px;
+  left: 2799px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.running-logo-section-rectangle1003 {
+  width: 291px;
+  height: 144px;
+  border-radius: 10px;
+}
+.running-logo-section-frame1232004 {
+  gap: 10px;
+  height: 94px;
+  display: flex;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.running-logo-section-alphajwc103 {
+  width: 216px;
+  height: auto;
+  flex-grow: 1;
+}
+.running-logo-section-frame12322 {
+  gap: 10px;
+  top: 0px;
+  left: 622px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.running-logo-section-rectangle1004 {
+  width: 291px;
+  height: 144px;
+  border-radius: 10px;
+}
+.running-logo-section-frame1232005 {
+  gap: 10px;
+  height: 94px;
+  display: flex;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.running-logo-section-alphajwc104 {
+  width: 216px;
+  height: auto;
+  flex-grow: 1;
+}
+.running-logo-section-frame12330 {
+  gap: 10px;
+  top: 0px;
+  left: 3110px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.running-logo-section-rectangle1005 {
+  width: 291px;
+  height: 144px;
+  border-radius: 10px;
+}
+.running-logo-section-frame1232006 {
+  gap: 10px;
+  height: 94px;
+  display: flex;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.running-logo-section-alphajwc105 {
+  width: 216px;
+  height: auto;
+  flex-grow: 1;
+}
+.running-logo-section-frame12323 {
+  gap: 10px;
+  top: 0px;
+  left: 933px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.running-logo-section-rectangle1006 {
+  width: 291px;
+  height: 144px;
+  border-radius: 10px;
+}
+.running-logo-section-frame1232007 {
+  gap: 10px;
+  height: 94px;
+  display: flex;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.running-logo-section-alphajwc106 {
+  width: 216px;
+  height: auto;
+  flex-grow: 1;
+}
+.running-logo-section-frame12331 {
+  gap: 10px;
+  top: 0px;
+  left: 3421px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.running-logo-section-rectangle1007 {
+  width: 291px;
+  height: 144px;
+  border-radius: 10px;
+}
+.running-logo-section-frame1232008 {
+  gap: 10px;
+  height: 94px;
+  display: flex;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.running-logo-section-alphajwc107 {
+  width: 216px;
+  height: auto;
+  flex-grow: 1;
+}
+.running-logo-section-frame12324 {
+  gap: 10px;
+  top: 0px;
+  left: 1244px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.running-logo-section-rectangle1008 {
+  width: 291px;
+  height: 144px;
+  border-radius: 10px;
+}
+.running-logo-section-frame1232009 {
+  gap: 10px;
+  height: 94px;
+  display: flex;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.running-logo-section-alphajwc108 {
+  width: 216px;
+  height: auto;
+  flex-grow: 1;
+}
+.running-logo-section-frame12332 {
+  gap: 10px;
+  top: 0px;
+  left: 3732px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.running-logo-section-rectangle1009 {
+  width: 291px;
+  height: 144px;
+  border-radius: 10px;
+}
+.running-logo-section-frame1232010 {
+  gap: 10px;
+  height: 94px;
+  display: flex;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.running-logo-section-alphajwc109 {
+  width: 216px;
+  height: auto;
+  flex-grow: 1;
+}
+.running-logo-section-frame12325 {
+  gap: 10px;
+  top: 0px;
+  left: 1555px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.running-logo-section-button {
+  gap: 10px;
+  display: flex;
+  padding: 16px 20px;
+  align-items: center;
+  border-radius: 5px;
+  justify-content: center;
+  background-color: rgba(62, 182, 221, 1);
+}
+.running-logo-section-text5 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
